@@ -1,12 +1,20 @@
 apply plugin: 'com.android.application'
 
 android {
+<<<<<<< HEAD
     compileSdkVersion 29
+=======
+    compileSdkVersion 31
+>>>>>>> 78d8e71 (TargetSdkVersion and CompileSdkVersion issue solved.)
     buildToolsVersion "29.0.3"
     defaultConfig {
         applicationId "com.example.arduinolock"
         minSdkVersion 16
+<<<<<<< HEAD
         targetSdkVersion 29
+=======
+        targetSdkVersion 31
+>>>>>>> 78d8e71 (TargetSdkVersion and CompileSdkVersion issue solved.)
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
