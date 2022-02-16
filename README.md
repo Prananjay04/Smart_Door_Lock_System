@@ -6,9 +6,10 @@
             2) Bluetooth module ( HC-05 )
             3) Servo Motor
             4) Jumper Wires
-   -> Software -
+    -> Software -
             1) Android Studio
             2) Adruino IDE
+   
                                           
 # Project Description -
     - Developed a mobile appication in java using android studio.
