@@ -29,7 +29,7 @@
                                                 fig(5)
 
 # Team Members -
-        -> Govardhan Bhanudas Dalavi 
-        -> Prananjay Charudatta Kandekar
-        -> Suryakant Gajanan Ingle
+                -> Prananjay Charudatta Kandekar
+                -> Suryakant Gajanan Ingle
+                -> Govardhan Bhanudas Dalavi
       
