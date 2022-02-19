@@ -17,7 +17,7 @@
     - Working model of smart lock with the use og arduino uno.
     
 # Images -
-   fig(1)
+    fig(1)
    ![0](https://user-images.githubusercontent.com/78221502/154327303-b2278dcd-f9a7-4eec-a32f-f7887e81047e.jpg)
    fig(2)                                            
    ![1](https://user-images.githubusercontent.com/78221502/154327313-2c219932-bf04-405f-9388-6e662e00ec7d.jpg)
