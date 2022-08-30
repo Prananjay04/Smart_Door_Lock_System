@@ -34,7 +34,7 @@
    
    
    # Fig(5)                                           
-    ![4](https://user-images.githubusercontent.com/78221502/154327323-463b7842-935d-41bf-8a97-92dc25dc22f3.jpg)
+   ![4](https://user-images.githubusercontent.com/78221502/154327323-463b7842-935d-41bf-8a97-92dc25dc22f3.jpg)
                                                 
 
 # Team Members -
