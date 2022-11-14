@@ -12,9 +12,9 @@
    
                                           
 # Project Description -
-    - Developed a mobile appication in java using android studio.
-    - Lock and unlock the door lock with the help of android application, arduino and bluetooth module.
-    - Working model of smart lock with the use og arduino uno.
+    - Developed a mobile application in java using android studio.
+    - Lock and unlock the door lock with the help of an android application, Arduino and BlueTooth module.
+    - The working model of the smart lock using Arduino UNO.
     
 # Images -
    # Fig(1)
